@@ -1,3 +1,33 @@
 #logo {
 	float: left;
 }
+
+
+
+.thumbnail{
+	Background-color: #FC3;
+}
+
+footer{
+	background-color: #000000;
+	width: 1904px;
+	height: 150px;
+	color: White;
+	float: left;
+	margin-top: 30px;
+}
+
+footer a{
+	color:White;
+}
+
+footer a:active{
+color:#FC3;	
+}
+
+.jumbotron{
+	background-color: #000;
+	font-style: normal;
+	font-weight: bolder;
+	color: #FC3;
+}
